@@ -18,4 +18,3 @@ public class WebDriverCapabilities {
     return options;
   }
 }
-
