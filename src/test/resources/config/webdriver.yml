@@ -1,0 +1,6 @@
+url: ${URL:-http://???}
+seleniumHubUrl: ${SELENIUM_HUB_URL:-http://localhost:4444}
+browser: ${BROWSER:-chrome}
+remote: ${REMOTE:-true}
+headless: ${HEADLESS:-false}
+waitTime: ${WAIT_TIME:-5}
