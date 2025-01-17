@@ -23,3 +23,4 @@ public class BasePage {
     return driver.findElement(By.cssSelector(css));
   }
 }
+

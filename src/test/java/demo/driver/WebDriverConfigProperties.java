@@ -14,3 +14,4 @@ public class WebDriverConfigProperties {
   private Boolean headless;
   private int waitTime;
 }
+

@@ -64,3 +64,4 @@ public class WebDriverConfig {
     WebDriverConfig.waitTime = waitTime;
   }
 }
+

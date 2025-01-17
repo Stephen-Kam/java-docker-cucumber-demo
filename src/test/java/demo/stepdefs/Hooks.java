@@ -45,3 +45,4 @@ public class Hooks {
     WebDriverManager.closeBrowser();
   }
 }
+
